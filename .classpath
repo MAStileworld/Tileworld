@@ -6,6 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/yihou/Documents/Eclipse_workspace/MASON_14.jar"/>
+	<classpathentry kind="lib" path="D:/java/java development tools/MASON_14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/java3DLib"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
